@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="button1">10%</string>
+    <string name="button2">15%</string>
+    <string name="button3">20%</string>
+    <string name="tvCustomPercentStatic">%</string>
+    <string name="tvCustomDollarStatic">$</string>
+    <string name="defaultTipValue">Tip Amount: $0.00</string>
+    <string name="defaultTotalValue">Total Amount: $0.00</string>
+</resources>
